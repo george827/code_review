@@ -1,5 +1,45 @@
-# FCC Test Suite Template
+# freecode survay
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+> freecode survay
+
+
+## Built With
+
+- html
+
+## Getting Started
+
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+- Web browser (eg Google Chrome)
+- A code editor (eg VScode)
+
+### Setup
+To get a copy running locally
+- Click on "**Code**" (dropdown list)
+- Then copy the link
+- Open your git bash
+- Type `git clone` "the link to the repository"
+
+### Deployment
+- Run the project by opening the index file with your browser 
+
+## Authors
+
+👤 **George kinyanjui**
+
+- GitHub: [@george827](https://github.com/george827)
+
+
+## Acknowledgments
+- Inspiration
+- [Microverse](https://github.com/microverseinc)
+
+
+## 📝 License
+
+This project is [MIT](LICENCE) licensed.
